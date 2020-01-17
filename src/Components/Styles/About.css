@@ -1,0 +1,29 @@
+.row{
+    margin-top: 60px;
+}
+.img1{
+    width: 70%;
+}
+.row .data{
+    margin-top: 70px;
+}
+span{
+    color:#007bff;
+}
+h1{
+    padding-top: 20px;
+}
+p{
+    padding-top: 15px;
+}
+.button {
+    text-decoration: none;
+    color: #007bff;
+    background-color: snow;
+    border-color: #007bff;
+}
+.button:hover{
+    color: snow;
+    background-color: #007bff;
+    border-color: #007bff;
+}
